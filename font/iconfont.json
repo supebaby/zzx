@@ -1,0 +1,16 @@
+{
+  "id": "3790650",
+  "name": "yunding3",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1703518",
+      "name": "说明",
+      "font_class": "shuoming",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    }
+  ]
+}
