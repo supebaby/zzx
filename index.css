@@ -114,6 +114,7 @@ input::-webkit-input-placeholder {
     padding-top: 25px;
     text-justify: auto;
     color: #7370a1;
+    text-decoration: none;
 }
 .nopass{
     width: 449px;
